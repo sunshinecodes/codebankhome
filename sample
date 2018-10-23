@@ -1,0 +1,5 @@
+// code for hello world program
+main()
+{
+println.str."hello world";
+}
